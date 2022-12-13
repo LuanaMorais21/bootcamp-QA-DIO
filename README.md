@@ -6,10 +6,10 @@ O bootcamp ideal para pessoas que se identificam como mulheres e que estão busc
 
 ##### :books: Conteúdo:
 
-_\* Prepare-se Para a Jornada (Onboarding)_
-_\* Fundamento de Qualidade e Desenvolvimento de Software_
-_\* Princípios de Programação e Testes com Java_
-_\* Dominando Algoritmos Básicos com Desafios de Código Java_
-_\* Programação Orientada a Objetos com Java_
-_\* Dominando Algoritmos Intermediários com Desafios de Código Java_
-_\* Explorando os Principais Tipos de Teste na Prática_
+* _Prepare-se Para a Jornada (Onboarding)_
+* _Fundamento de Qualidade e Desenvolvimento de Software_
+* _Princípios de Programação e Testes com Java_
+* _Dominando Algoritmos Básicos com Desafios de Código Java_
+* _Programação Orientada a Objetos com Java_
+* _Dominando Algoritmos Intermediários com Desafios de Código Java_
+* _Explorando os Principais Tipos de Teste na Prática_
