@@ -1,4 +1,4 @@
-# Bootcamp - GFT - Quality Assurance Para Mulheres
+# Bootcamp - GFT - Quality Assurance Para Mulheres :purple_heart:
 
 ##### :dart: Objetivo do programa:
 
