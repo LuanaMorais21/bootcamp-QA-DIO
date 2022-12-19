@@ -1,0 +1,76 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch AnotherAboutMe",
+      "request": "launch",
+      "mainClass": "edu.luana.terminaleargumentos.AnotherAboutMe",
+      "projectName": "tipos-variaveis_e73f6ebf"
+    },
+    {
+      "type": "java",
+      "name": "Launch Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Launch Comentarios",
+      "request": "launch",
+      "mainClass": "edu.luana.documentacao.Comentarios",
+      "projectName": "tipos-variaveis_e73f6ebf"
+    },
+    {
+      "type": "java",
+      "name": "Launch Usuario",
+      "request": "launch",
+      "mainClass": "edu.luana.metodos.Usuario",
+      "projectName": "tipos-variaveis_e73f6ebf"
+    },
+    {
+      "type": "java",
+      "name": "Launch Operadores",
+      "request": "launch",
+      "mainClass": "edu.luana.operadores.Operadores",
+      "projectName": "tipos-variaveis_e73f6ebf"
+    },
+    {
+      "type": "java",
+      "name": "Launch AboutMe",
+      "request": "launch",
+      "mainClass": "edu.luana.terminaleargumentos.AboutMe",
+      "projectName": "tipos-variaveis_e73f6ebf",
+      "args": [
+        "LUANA",
+        "MORAIS",
+        "30",
+        "1.73"
+      ]
+    },
+    {
+      "type": "java",
+      "name": "Launch MinhaClasse",
+      "request": "launch",
+      "mainClass": "edu.luana.terminaleargumentos.MinhaClasse",
+      "projectName": "tipos-variaveis_e73f6ebf"
+    },
+    {
+      "type": "java",
+      "name": "Launch TestesTiposVariaveis",
+      "request": "launch",
+      "mainClass": "edu.luana.tiposvariaveis.TestesTiposVariaveis",
+      "projectName": "tipos-variaveis_e73f6ebf"
+    },
+    {
+      "type": "java",
+      "name": "Launch TiposVariaveis",
+      "request": "launch",
+      "mainClass": "edu.luana.tiposvariaveis.TiposVariaveis",
+      "projectName": "tipos-variaveis_e73f6ebf"
+    }
+  ]
+}
