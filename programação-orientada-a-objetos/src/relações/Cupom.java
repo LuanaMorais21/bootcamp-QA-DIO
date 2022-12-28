@@ -1,5 +1,0 @@
-package relações;
-
-class Cupom {
-
-}
