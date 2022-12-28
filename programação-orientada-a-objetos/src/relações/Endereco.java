@@ -1,0 +1,5 @@
+package relações;
+
+class Endereco {
+
+}
