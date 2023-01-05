@@ -76,3 +76,23 @@ A entrada consiste em um retorno, que será o menor multiplo digitado e 2.
 | :-----: | :--------------: |
 |    5    |                  |
 |    O    | Zresultado eh:10 |
+
+### _6 - Flecha, Escudo ou Espada_
+
+Você e seus amigos estão em uma aula de criação de jogos. Para inspirar os alunos e treinar, o professor pediu para que vocês fizessem um jogo que já existe com alguma modificação. A escolha de vocês foi "Pedra, Papel e Tesoura" e a modificação foi mudar Pedra para Flecha, Papel para Escudo e Tesoura para Espada.
+
+Então, vocês escolheram um número para representar cada um dos parâmetros. Sendo:
+
+1 - Flecha
+2 - Escudo
+3 - Espada
+
+_Entrada_
+A entrada vão ser dois números representando cada um dos parâmetros. Sendo a primeira entrada o jogador e a segunda o inimigo.
+
+_Saída_
+A saída deve ser se o jogador ganhou, empatou ou perdeu após a análise das duas entradas. A saída deve ser sem as aspas.
+ENTRADA  -  SAÍDA
+1 - 1      "Empatou"
+1 - 2      "Perdeu"
+3 - 2      "Ganhou"
