@@ -92,7 +92,8 @@ A entrada vão ser dois números representando cada um dos parâmetros. Sendo a 
 
 _Saída_
 A saída deve ser se o jogador ganhou, empatou ou perdeu após a análise das duas entradas. A saída deve ser sem as aspas.
-ENTRADA  -  SAÍDA
-1 - 1      "Empatou"
-1 - 2      "Perdeu"
-3 - 2      "Ganhou"
+ENTRADA  |  SAÍDA
+:-----:  | :-----:
+1 - 1    |  "Empatou"
+1 - 2    |  "Perdeu"
+3 - 2    |  "Ganhou"
