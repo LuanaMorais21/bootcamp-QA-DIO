@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Jan 25 23:45:37 BRT 2023","Wed Jan 25 23:45:38 BRT 2023","849","","BookingTests","","BookingTests","DeleteBooking_WithValidDta_returnOk","DeleteBooking_WithValidDta_returnOk()",""
+"passed","Wed Jan 25 23:45:38 BRT 2023","Wed Jan 25 23:45:39 BRT 2023","883","","BookingTests","","BookingTests","UpdatePartialBooking_WithValidData_returnOk","UpdatePartialBooking_WithValidData_returnOk()",""
+"passed","Wed Jan 25 23:45:45 BRT 2023","Wed Jan 25 23:45:46 BRT 2023","1850","","BookingTests","","BookingTests","CreateBooking_WithValidData_returnOk","CreateBooking_WithValidData_returnOk()",""
+"passed","Wed Jan 25 23:45:31 BRT 2023","Wed Jan 25 23:45:37 BRT 2023","5956","","BookingTests","","BookingTests","UpdateBooking_WithValidData_returnOk","UpdateBooking_WithValidData_returnOk()",""
+"passed","Wed Jan 25 23:45:39 BRT 2023","Wed Jan 25 23:45:43 BRT 2023","3824","","BookingTests","","BookingTests","getAllBookingsByUserFirstName_BookingExists_ReturnOk","getAllBookingsByUserFirstName_BookingExists_ReturnOk()",""
+"passed","Wed Jan 25 23:45:43 BRT 2023","Wed Jan 25 23:45:45 BRT 2023","1242","","BookingTests","","BookingTests","getAllBookingsById_returnOk","getAllBookingsById_returnOk()",""
+"passed","Wed Jan 25 23:45:43 BRT 2023","Wed Jan 25 23:45:43 BRT 2023","811","","BookingTests","","BookingTests","HealthCheck_ReturnOk","HealthCheck_ReturnOk()",""
